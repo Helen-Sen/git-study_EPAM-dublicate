@@ -1,3 +1,5 @@
 # Default ignored files
-.idea
+/.idea
+test_no_track.txt
+
 
