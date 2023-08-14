@@ -1,3 +1,15 @@
 I try to study, but do it very bad
 I forgot almost all(((
 it is true
+<<<<<<< HEAD
+=======
+1123
+1231
+123
+
+123222333
+1233322
+training reset
+training reset2
+123
+>>>>>>> ec77fcf684d5da44aba0a2c63914542798a8ef79
